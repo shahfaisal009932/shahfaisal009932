@@ -1,7 +1,7 @@
 <!-- PREMIUM GITHUB PROFILE README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shah+Faisal;C%2B%2B+Developer;Flutter+App+Developer;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shah+Faisal;Flutter+App+Developer;Future+Software+Engineer+🚀" />
 </h1>
 
 <p align="center">
