@@ -15,7 +15,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 BTech in Computer Science & Engineering  
-- 💻 Strong in **C++ & Data Structures**  
+- 💻 Strong in **Java & Data Structures**  
 - 📱 Learning **Flutter App Development**  
 - 🔥 Passionate about Problem Solving  
 - 🌱 Always Learning New Technologies  
